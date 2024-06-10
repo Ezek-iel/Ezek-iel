@@ -1,8 +1,42 @@
-# Ezekiel
+# Welcome to Ezekiel's Coding Playground! 🎢
 
-## ezekielakinfenwa98@gmail.com
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Ezek-iel/langs?time_range=one_year&theme=ferns)](https://githubtrends.io)   [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Ezek-iel/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
+Hey there! I'm Ezekiel, a passionate computer science student and future tech entrepreneur. If you love coding, design, and building cool stuff, you're in the right place! Let's dive into my awesome stats and achievements!
 
+## 📈 My Awesome Stats
+
+Check out these cool stats showing my progress and projects over the past year:
+
+![My Awesome Stats](https://api.githubtrends.io/user/svg/Ezek-iel/langs?time_range=one_year&use_percent=True&theme=dark) ![My Awesome Stats](https://api.githubtrends.io/user/svg/Ezek-iel/repos?time_range=one_year&loc_metric=changed&theme=dark)
+
+And here's a snapshot of my overall GitHub activity:
+
+![Ezekiel's Stats](https://github-readme-stats.vercel.app/api?username=Ezek-iel&show_icons=true&theme=transparent)
+
+---
+
+## 💻 Technology and Languages
+
+I'm always exploring new technologies and languages. Here are some of my favorites:
+
+<div style="text-align: center; padding: 4px; border-radius: 10px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50px" alt="PostgreSQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50px" alt="JSON"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="50px" alt="Flask"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="50px" alt="Insomnia"/>
+</div>
+
+---
+
+## 🏆 Extra Achievements 
+
+Check out my Dev Card to see what I've been up to lately:
 
 <a href="https://app.daily.dev/ezekiel8"><img src="https://api.daily.dev/devcards/v2/7l51MP3rotMgXMFvCL0wF.png?r=996&type=wide" width="652" alt="Ezekiel's Dev Card"/></a>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ezek-iel)](https://git.io/awesome-stats-card)
+
+---
+
+Feel free to explore, connect, and let's make something awesome together! 🚀
+
+---
