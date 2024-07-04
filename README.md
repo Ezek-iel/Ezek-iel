@@ -38,7 +38,7 @@ Check out my Dev Card to see what I've been up to lately:
 ---
 
 ### 🎶 Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yi42ui4e77bv6tslqls2ogn3na&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yi42ui4e77bv6tslqls2ogn3na&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 Feel free to explore, connect, and let's make something awesome together! 🚀
