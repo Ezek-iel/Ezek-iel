@@ -25,6 +25,8 @@ I'm always exploring new technologies and languages. Here are some of my favorit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50px" alt="JSON"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="50px" alt="Flask"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="50px" alt="Insomnia"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" height="50px" alt="Bulma" />
+          
 </div>
 
 ---
