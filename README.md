@@ -2,7 +2,9 @@
 
 Hey there! I'm Ezekiel, a passionate computer science student and future tech entrepreneur. If you love coding, design, and building cool stuff, you're in the right place! Let's dive into my awesome stats and achievements!
 
-## 📈 My Awesome Stats
+##### **🛠️ I'm currently working on [Campus Mart](https://github.com/Ezek-iel/Campus-Mart)**
+
+## 📈 Stats
 
 Check out these cool stats showing my progress and projects over the past year:
 
