@@ -2,7 +2,7 @@
 
 Hey there! I'm Ezekiel, a passionate computer science student and future tech entrepreneur. If you love coding, design, and building cool stuff, you're in the right place! Let's dive into my awesome stats and achievements!
 
-##### **🛠️ I'm currently working on [ByteBuddy](https://github.com/Ezek-iel/quiz-byte)**
+##### **🛠️ I'm currently working on [QuizByte](https://github.com/Ezek-iel/quiz-byte)**
 
 ## 📈 Stats
 
