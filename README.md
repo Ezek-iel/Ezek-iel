@@ -1,8 +1,11 @@
 # Welcome to Ezekiel's Coding Playground! 🎢
 
-Hey there! I'm Ezekiel, a passionate computer science student and future tech entrepreneur. If you love coding, design, and building cool stuff, you're in the right place! Let's dive into my awesome stats and achievements!
+I build things that matter. I turn code into innovation. I make ideas real. 🛠️
 
-##### **🛠️ I'm currently working on [QuizByte](https://github.com/Ezek-iel/quiz-byte)**
+I'm Ezekiel—a computer science student shaping the future, designing, developing, and pushing boundaries. ⭐
+
+Let’s create something remarkable. 😊
+
 
 ## 📈 Stats
 
@@ -31,14 +34,6 @@ I'm always exploring new technologies and languages. Here are some of my favorit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" height="50px" alt="Bulma" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50px" alt="JSON"/>
 </div>
-
----
-
-## 🏆 Extra Achievements 
-
-Check out my Dev Card to see what I've been up to lately:
-
-<a href="https://app.daily.dev/ezekiel8"><img src="https://api.daily.dev/devcards/v2/7l51MP3rotMgXMFvCL0wF.png?r=996&type=wide" width="652" alt="Ezekiel's Dev Card"/></a>
 
 ---
 
