@@ -1,7 +1,5 @@
 # Welcome to Ezekiel's Coding Playground! 🎢
 
-I build things that matter. I turn code into innovation. I make ideas real. 🛠️
-
 I'm Ezekiel—a computer science student shaping the future, designing, developing, and pushing boundaries. ⭐
 
 Let’s create something remarkable. 😊
