@@ -19,6 +19,7 @@ And here's a snapshot of my overall GitHub activity:
 
 ## 💻 Technology and Languages
 
+
 I'm always exploring new technologies and languages. Here are some of my favorites:
 
 <div style="text-align: center; padding: 4px; border-radius: 10px">
@@ -26,10 +27,12 @@ I'm always exploring new technologies and languages. Here are some of my favorit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" alt="JavaScript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px" alt="Typescript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50px" alt="PostgreSQL"/>
+    <img src="https://github.com/user-attachments/assets/9df0163f-084d-47c3-9fc2-5c9b3585ed25" height="50px" alt="Flask"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="50px" alt="Svelte" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="50px" alt="Flask" style="background-color: white"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg" height="50px" alt="Bulma" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="50px" alt="JSON"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50px" alt="Golang" />
+    <img src="https://pocketbase.io/images/logo.svg" height="50px" alt="Pocketbase"/>
 </div>
 
 ---
