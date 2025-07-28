@@ -38,8 +38,8 @@ I'm always exploring new technologies and languages. Here are some of my favorit
 ---
 
 ### ✒️ Certifications
-![github-foundations (1)](https://github.com/user-attachments/assets/ad9fb763-40f3-43bd-a874-ed1fd3a8c92e)
-
+<a href="https://www.credly.com/badges/e3676d80-406a-4bb7-866c-4f81758380d0/linked_in_profile">![github-foundations (1)](https://github.com/user-attachments/assets/ad9fb763-40f3-43bd-a874-ed1fd3a8c92e)<a/>
+<a href="https://learn.microsoft.com/en-us/users/akinfenwaezekiel-2380/credentials/8a9193370ba1e599">![az-900](https://th.bing.com/th/id/OIP.OUa1Lcfrr1-vZKgQD7MNqwHaHa?w=177&h=180&c=7&r=0&o=7&pid=1.7&rm=3)<a/>
 ---
 
 ### 🎶 Music
