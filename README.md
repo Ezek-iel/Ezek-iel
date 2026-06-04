@@ -1,6 +1,6 @@
-# Welcome to Ezekiel's Coding Playground! 🎢
+# Hi 👋
 
-I'm Ezekiel—a computer science student shaping the future, designing, developing, and pushing boundaries. ⭐
+I'm Ezekiel— a builder shaping the future, designing, developing, and pushing boundaries. ⭐
 
 Let’s create something remarkable. 😊
 
@@ -11,11 +11,6 @@ Check out these cool stats showing my progress and projects over the past year:
   
 ![My Awesome Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezek-iel&theme=aura)
 ![My Awesome Stats 2](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezek-iel&theme=aura)
-
-And here's a snapshot of my overall GitHub activity:
-
-![Ezekiel's Stats](https://github-readme-stats.vercel.app/api?username=Ezek-iel&show_icons=true&theme=transparent)
-
 ---
 
 ## 💻 Technology and Languages
